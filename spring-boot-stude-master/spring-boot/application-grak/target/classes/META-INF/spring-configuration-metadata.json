@@ -1,0 +1,148 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "name": "book",
+      "type": "com.grak.study.config.Resources"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "name": "friends",
+      "type": "com.grak.study.config.Friends"
+    },
+    {
+      "sourceType": "com.grak.study.config.Cat",
+      "name": "novellist",
+      "type": "com.grak.study.config.Cat"
+    },
+    {
+      "sourceType": "com.grak.study.xlsx.SampleConfig",
+      "name": "sample",
+      "type": "com.grak.study.xlsx.SampleConfig"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "name": "tree",
+      "type": "com.grak.study.config.OtherPath"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "defaultValue": 0,
+      "name": "book.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "defaultValue": false,
+      "name": "book.boos",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "name": "book.color",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "name": "book.list",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "name": "book.top-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Resources",
+      "name": "book.whit",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "defaultValue": 0,
+      "name": "friends.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "name": "friends.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "defaultValue": false,
+      "name": "friends.boos",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "name": "friends.danyin",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "name": "friends.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Friends",
+      "name": "friends.shuang",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.Cat",
+      "name": "novellist.color",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.grak.study.config.Cat",
+      "name": "novellist.list",
+      "type": "java.util.List<java.util.Map<java.lang.String,java.lang.String>>"
+    },
+    {
+      "sourceType": "com.grak.study.xlsx.SampleConfig",
+      "name": "sample.sample-package",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.xlsx.SampleConfig",
+      "name": "sample.sample-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "defaultValue": 0,
+      "name": "tree.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "defaultValue": false,
+      "name": "tree.boos",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "name": "tree.color",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "name": "tree.list",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "name": "tree.top-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.grak.study.config.OtherPath",
+      "name": "tree.whit",
+      "type": "java.lang.String"
+    }
+  ]
+}
