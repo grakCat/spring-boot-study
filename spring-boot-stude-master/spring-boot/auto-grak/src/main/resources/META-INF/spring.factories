@@ -1,0 +1,3 @@
+# ×Ô¶¯×°ÅäMETA-INF/spring.factories
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.grak.study.factories.MyAutoConfiguration

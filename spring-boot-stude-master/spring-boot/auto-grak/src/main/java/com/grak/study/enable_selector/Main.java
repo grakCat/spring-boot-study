@@ -1,4 +1,4 @@
-package com.grak.study.enable;
+package com.grak.study.enable_selector;
 
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -10,13 +10,13 @@ import org.springframework.context.ConfigurableApplicationContext;
  * @author hy
  * @since 1.0
  */
-@EnableHelloWorld
+@MyEnableSelector
 public class Main {
 
     public static void main(String[] args) {
         ConfigurableApplicationContext context = new SpringApplicationBuilder(Main.class)
                 .web(WebApplicationType.NONE)
-                .profiles("Cat")
+                .profiles("Dog")
                 .run(args);
 
         //有添加bean的名字，设置转换的类型

@@ -1,0 +1,10 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.grak.study.ready.init.FirstApplicationInitialzer,\
+com.grak.study.ready.init.SecondApplicationInitialzer,\
+com.grak.study.ready.init.ThirdApplicationInitialzer
+
+org.springframework.context.ApplicationListener=\
+com.grak.study.ready.listener.FirstApplicatinListener
+
+org.springframework.boot.SpringApplicationRunListener=\
+com.grak.study.run.MyRunListener
