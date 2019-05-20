@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-core:war">
+    <output-path>$PROJECT_DIR$/web-grak/web-core/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>web-core</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web-core-1.0.0.war">
+      <element id="artifact" artifact-name="web-core:war exploded" />
+    </root>
+  </artifact>
+</component>

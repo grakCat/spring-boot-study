@@ -2,58 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bbc3385-1204-4533-9c5a-237e258ca357" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/async/AsyncApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/async/AsyncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/pool/CoreThreadexPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/pool/ParentThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/pool/SimpleThreadexPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/runner/MyApplicationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/runner/MyCommandLineRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/src/main/resources/executorAsync.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/async/AsyncApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/async/AsyncTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/pool/CoreThreadexPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/pool/ParentThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/pool/SimpleThreadexPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/run/runner/MyApplicationRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/run/runner/MyCommandLineRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run-grak/target/classes/executorAsync.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_core_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_core_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/src/main/java/com/grak/study/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/app-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-core/web-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-grak/web-grak.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/spring-application-grak.iml" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/run-grak.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/SpringApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/SpringApplicationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/init/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/init/FirstApplicationInitialzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/FirstApplicationInitialzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/init/SecondApplicationInitialzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/SecondApplicationInitialzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/init/ThirdApplicationInitialzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/ThirdApplicationInitialzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/listener/FirstApplicatinListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/listener/FirstApplicatinListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/MyRunListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/MyRunListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/listener/DemoEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/listener/DemoListener01.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoListener01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/listener/DemoListener02.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoListener02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/listener/DemoPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoPublisher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/listener/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/META-INF/spring-application-grak.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/META-INF/spring-application-grak.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/SpringApplicationMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/SpringApplicationMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/ready/init/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/ready/init/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/ready/init/FirstApplicationInitialzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/ready/init/FirstApplicationInitialzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/ready/init/SecondApplicationInitialzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/ready/init/SecondApplicationInitialzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/ready/init/ThirdApplicationInitialzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/ready/init/ThirdApplicationInitialzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/ready/listener/FirstApplicatinListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/ready/listener/FirstApplicatinListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/MyRunListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/run/MyRunListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/listener/DemoEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/listener/DemoListener01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/listener/DemoListener02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/listener/DemoPublisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/run/listener/DemoPublisher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-application-grak/target/classes/com/grak/study/run/listener/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/run-grak/target/classes/com/grak/study/run/listener/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,6 +27,8 @@
     <ignored path="$PROJECT_DIR$/application-grak/target/" />
     <ignored path="$PROJECT_DIR$/spring-application-grak/target/" />
     <ignored path="$PROJECT_DIR$/run-grak/target/" />
+    <ignored path="$PROJECT_DIR$/web-grak/target/" />
+    <ignored path="$PROJECT_DIR$/web-grak/web-core/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,53 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoListener01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoListener02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/listener/DemoPublisher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application-grak/src/main/java/com/grak/study/jsonConfig/JsonConfigLoadBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/runner/MyApplicationRunner.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,17 +55,76 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="99">
+              <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run-grak/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-grak/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="12" selection-start-line="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-grak/web-core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/app-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run-grak/pom.xml">
+        <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/java/com/grak/study/MyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="245">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,33 +138,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/mavenRes/org/springframework/boot/spring-boot/2.0.0.RELEASE/spring-boot-2.0.0.RELEASE-sources.jar!/org/springframework/boot/ApplicationArguments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/run/runner/MyCommandLineRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -204,13 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application-grak/src/main/resources/application-dev.yaml" />
-        <option value="$PROJECT_DIR$/application-grak/config/logback.xml" />
-        <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable_selector.java" />
-        <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable/EnableHelloWorld.java" />
-        <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable_selector/MySelector.java" />
-        <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable/Main.java" />
-        <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable/HelloWorld.java" />
         <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable_selector/MyEnableSelector.java" />
         <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/enable_selector/Main.java" />
         <option value="$PROJECT_DIR$/auto-grak/src/main/java/com/grak/study/condition/MySelector.java" />
@@ -255,6 +208,13 @@
         <option value="$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/run/runner/MyApplicationRunner.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/run-grak/pom.xml" />
+        <option value="$PROJECT_DIR$/web-grak/pom.xml" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/app-context.xml.html" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/app-context.xml" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/src/main/java/com/grak/study/Controller.java" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/src/main/java/com/grak/study/MyController.java" />
+        <option value="$PROJECT_DIR$/web-grak/web-core/pom.xml" />
       </list>
     </option>
   </component>
@@ -268,13 +228,23 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="web-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="web-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="273" />
-    <option name="y" value="65" />
+    <option name="x" value="181" />
+    <option name="y" value="119" />
     <option name="width" value="1541" />
     <option name="height" value="849" />
   </component>
@@ -295,6 +265,51 @@
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+              <item name="web-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+              <item name="web-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+              <item name="web-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+              <item name="web-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="web-grak" type="462c0819:PsiDirectoryNode" />
+              <item name="web-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -304,6 +319,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -319,7 +335,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558018760304" />
-    <property name="last_opened_file_path" value="D:/project/cfqp-server/azas-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-grak/web-core/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -329,12 +345,12 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\spring-application-grak\src\main\java" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\spring-application-grak\src\main\resources" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak\src\main\resources\META-INF" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak\src\main\resources" />
       <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\application-grak\config" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\application-grak\src\main\resources" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\application-grak" />
+      <recent name="F:\spring-boot-stude\spring-boot\application-grak\config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.grak.study.run.listener" />
@@ -343,12 +359,12 @@
       <recent name="com.grak.study.enable_selector" />
       <recent name="com.grak.study.config" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\spring-application-grak\src\main\resources" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak\src\main\resources\META-INF" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak\src\main\resources" />
-      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\application-grak\config" />
-      <recent name="F:\spring-boot-stude\spring-boot\application-grak\config" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\web-grak\web-core\src\main\resources" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\web-grak\web-core\src\main\java" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\web-grak\src\main\resources" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\spring-application-grak\src\main\java" />
+      <recent name="D:\spring-boot-study-git\spring-boot-stude-master\spring-boot\auto-grak" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -515,17 +531,18 @@
       <workItem from="1558012897464" duration="5859000" />
       <workItem from="1558157281028" duration="672000" />
       <workItem from="1558157977942" duration="17347000" />
-      <workItem from="1558314946303" duration="9157000" />
+      <workItem from="1558314946303" duration="13091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33035000" />
+    <option name="totallyTimeSpent" value="36969000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="273" y="65" width="1541" height="849" extended-state="0" />
+    <frame x="181" y="119" width="1541" height="849" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23092505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18973666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -535,7 +552,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26049203" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2894356" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37771347" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,7 +568,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.17124736" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.33220798" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="SciView" order="6" />
@@ -568,56 +585,6 @@
     <SUITE FILE_PATH="coverage/spring_boot$GenClassByExcel.coverage" NAME="GenClassByExcel Coverage Results" MODIFIED="1558162361138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/application-grak" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/FirstApplicationInitialzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/SecondApplicationInitialzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run-grak/src/main/java/com/grak/study/ready/init/ThirdApplicationInitialzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-application-grak/src/main/java/com/grak/study/ready/lister.java" />
-    <entry file="jar://D:/mavenRes/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar!/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auto-grak/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/mavenRes/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/mavenRes/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -979,13 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto-grak/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -995,8 +955,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run-grak/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="197">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" selection-start-line="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="27" selection-start-line="27" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/app-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/web-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-grak/web-core/src/main/java/com/grak/study/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

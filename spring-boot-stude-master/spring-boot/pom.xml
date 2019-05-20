@@ -7,6 +7,7 @@
         <module>application-grak</module>
         <module>auto-grak</module>
         <module>run-grak</module>
+        <module>web-grak</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

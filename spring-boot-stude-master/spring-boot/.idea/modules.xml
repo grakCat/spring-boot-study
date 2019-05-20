@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/auto-grak/auto-grak.iml" filepath="$PROJECT_DIR$/auto-grak/auto-grak.iml" />
       <module fileurl="file://$PROJECT_DIR$/run-grak/run-grak.iml" filepath="$PROJECT_DIR$/run-grak/run-grak.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-grak/web-core/web-core.iml" filepath="$PROJECT_DIR$/web-grak/web-core/web-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-grak/web-grak.iml" filepath="$PROJECT_DIR$/web-grak/web-grak.iml" />
     </modules>
   </component>
 </project>

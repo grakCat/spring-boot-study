@@ -17,6 +17,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="application-grak" />
+        <module name="web-core" />
         <module name="run-grak" />
         <module name="auto-grak" />
       </profile>
@@ -26,6 +27,8 @@
       <module name="auto-grak" target="1.8" />
       <module name="run-grak" target="1.8" />
       <module name="spring-boot" target="1.8" />
+      <module name="web-core" target="1.8" />
+      <module name="web-grak" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +36,8 @@
       <module name="application-grak" options="-parameters" />
       <module name="auto-grak" options="-parameters" />
       <module name="run-grak" options="-parameters" />
+      <module name="web-core" options="-parameters" />
+      <module name="web-grak" options="-parameters" />
     </option>
   </component>
 </project>
