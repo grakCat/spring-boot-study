@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/application-grak/application-grak.iml" filepath="$PROJECT_DIR$/application-grak/application-grak.iml" />
       <module fileurl="file://$PROJECT_DIR$/auto-grak/auto-grak.iml" filepath="$PROJECT_DIR$/auto-grak/auto-grak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-application-grak/spring-application-grak.iml" filepath="$PROJECT_DIR$/spring-application-grak/spring-application-grak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/run-grak/run-grak.iml" filepath="$PROJECT_DIR$/run-grak/run-grak.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
     </modules>
   </component>
