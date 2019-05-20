@@ -13,6 +13,9 @@ import org.springframework.stereotype.Component;
 @Component
 public class DemoPublisher {
 
+    /**
+     * 就是在spring boot的上下文中，发布监听事件。之后在逻辑中调用（观察者设计模式）
+     */
     private final ApplicationContext applicationContext;
 
     @Autowired

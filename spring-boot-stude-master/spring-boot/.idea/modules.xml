@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application-grak/application-grak.iml" filepath="$PROJECT_DIR$/application-grak/application-grak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto-grak/auto-grak.iml" filepath="$PROJECT_DIR$/auto-grak/auto-grak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-application-grak/spring-application-grak.iml" filepath="$PROJECT_DIR$/spring-application-grak/spring-application-grak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+    </modules>
+  </component>
+</project>

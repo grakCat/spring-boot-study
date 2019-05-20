@@ -20,6 +20,5 @@ public class Main {
         DemoPublisher publisher = context.getBean("demoPublisher",DemoPublisher.class);
         publisher.publish(4,"任务1");
         publisher.publish(4,"任务2");
-
     }
 }
