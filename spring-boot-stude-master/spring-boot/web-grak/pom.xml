@@ -13,6 +13,7 @@
     <version>1.0.0</version>
     <modules>
         <module>web-core</module>
+        <module>web-rest</module>
     </modules>
     <packaging>pom</packaging>
 
